@@ -4,5 +4,5 @@ Inspiration from Music
 Inspiration from Video Games
 Inspiration with visual effects
 
-Basically a accumulation an collage of random processing programs that have
+Basically a accumulation and collage of random processing programs that have
 no real purpose but are just for fun 
