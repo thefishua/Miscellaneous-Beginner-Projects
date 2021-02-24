@@ -1,5 +1,5 @@
 # Projects
-New programming projects from the summer of 2020
+New programming projects from the summer of 2020\n
 Inspiration from Music 
 Inspiration from Video Games
 Inspiration with visual effects
