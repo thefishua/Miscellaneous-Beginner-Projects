@@ -1,8 +1,5 @@
 # Projects
-New programming projects from the summer of 2020\n
-Inspiration from Music 
-Inspiration from Video Games
-Inspiration with visual effects
+New programming projects from the summer of 2020
+Includes visual effects. music and games
 
-Basically a accumulation and collage of random processing programs that have
-no real purpose but are just for fun 
+Basically a accumulation and collage of processing programs 
