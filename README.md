@@ -26,4 +26,4 @@ Music Visualisation
 - A program that reacts to the bpm of different songs and chains through a variety of visualisations creating a satisfying experience
 
 
-All of these projects are heavily influenced by [Code Bullet](https://github.com/Code-Bullet) and the [Coding Train] (https://github.com/CodingTrain). 
+All of these projects are heavily influenced by [Code Bullet](https://github.com/Code-Bullet) and the [Coding Train](https://github.com/CodingTrain). 
